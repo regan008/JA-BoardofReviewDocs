@@ -1,27 +1,160 @@
-ETO,CM,Accused,Date,Page
-24,244441,White,24 Sep 1942,1
-25,230379,Kenney,29 Sep 1942,13
-29,235609,Davis *,10 Oct 1942,29
-72,234999,"Jacobs, Farley",5 Nov 1942,31
-78,234989,Watts,26 Nov 1942,45
-82,234998,McKenzie,26 Nov 1942,69
-90,235003,Edmonds,27 Nov 1942,87
-105,234990,Fowler,1 Dec 1942,91
-106,234993,Orbon,4 Dec 1942,95
-108,236446,Abrams,14 Jan 1943,111
-110,236447,Bartlett,14 Jan 1943,115
-121,236448,"Shoupe, Ellis, IfcDevitt, Saroka, Thompson, Burke, Vanderlip, Farlow, Hass, Loddo, Wilson, Barker, Gunett, Hinson",24 Dec 1942,141
-128,265294,Rindfleisch,19 Dec 1942,153
-132,,"Kelly, Hyde",20 Jan 1943,161
-139,235002,McDaniels,11 Dec 1942,205
-255,258068,Cobb,19 Feb 1943,211
-268,234992,Ricks,18 Feb 1943,219
-292,234995,Mickles,23 Feb 1943,231
-314,241103,Mason,26 Mar 1943,263
-339,237825,Gage,31 Mar 1943,299
-364,234996,Howe,31 Mar 1943,315
-393,,"Caton, Flkes",29 May 1943,325
-397,237826,Shaffer,16 Apr 1943,339
-422,237827,Green,10 May 1943,345
-438,258070,Smith,5 Jun 1943,377
-439,236450,Nicholson,18 May 1943,397
+ETO,CM,Accused,Date,Page,volume
+24,244441,White,24 Sep 1942,1,vol1
+25,230379,Kenney,29 Sep 1942,13,vol1
+29,235609,Davis *,10 Oct 1942,29,vol1
+72,234999,"Jacobs, Farley",5 Nov 1942,31,vol1
+78,234989,Watts,26 Nov 1942,45,vol1
+82,234998,McKenzie,26 Nov 1942,69,vol1
+90,235003,Edmonds,27 Nov 1942,87,vol1
+105,234990,Fowler,1 Dec 1942,91,vol1
+106,234993,Orbon,4 Dec 1942,95,vol1
+108,236446,Abrams,14 Jan 1943,111,vol1
+110,236447,Bartlett,14 Jan 1943,115,vol1
+121,236448,"Shoupe, Ellis, IfcDevitt, Saroka, Thompson, Burke, Vanderlip, Farlow, Hass, Loddo, Wilson, Barker, Gunett, Hinson",24 Dec 1942,141,vol1
+128,265294,Rindfleisch,19 Dec 1942,153,vol1
+132,,"Kelly, Hyde",20 Jan 1943,161,vol1
+139,235002,McDaniels,11 Dec 1942,205,vol1
+255,258068,Cobb,19 Feb 1943,211,vol1
+268,234992,Ricks,18 Feb 1943,219,vol1
+292,234995,Mickles,23 Feb 1943,231,vol1
+314,241103,Mason,26 Mar 1943,263,vol1
+339,237825,Gage,31 Mar 1943,299,vol1
+364,234996,Howe,31 Mar 1943,315,vol1
+393,,"Caton, Flkes",29 May 1943,325,vol1
+397,237826,Shaffer,16 Apr 1943,339,vol1
+422,237827,Green,10 May 1943,345,vol1
+438,258070,Smith,5 Jun 1943,377,vol1
+439,236450,Nicholson,18 May 1943,397,vol1
+455,,Nigg,1 Jun 1943,1,vol2
+489,239535,"Rhinehart, Fallucco",26 Jun 1943,11,vol2
+492,239532,Lewis,11 Jun 1943,23,vol2
+503,239536,Richmond,25 Jun 1943,35,vol2
+506,241104,Bryson,23 Jun 1943,49,vol2
+515,246547,"Edwards ,",29 Jun 1943,67,vol2
+527,,Astrella,23 Jul 1943,79,vol2
+531,239537,IfcLurkin,3 Jul 1943,91,vol2
+533,239539,Brown,1 Jul 1943,101,vol2
+548,252277,Tabb,30 Jun 1943,111,vol2
+559,240949,Monsalve,17 Jul 1943,119,vol2
+564,264581,Neville,29 Jul 1943,135,vol2
+567,265108,Radloff,16 Aug 1943,143,vol2
+571,239527,Leach,12 Jul 1943,169,vol2
+580,252278,Gorman,12 Jul 1943,177,vol2
+595,240923,Sipes,20 Jul 1943,183,vol2
+611,241102,Porter,28 Jul 1943,189,vol2
+612,252279,Suckow,28 Jul 1943,199,vol2
+656,257982,Taylor,4 Aug 1943,205,vol2
+678,240488,DiNuoscio,11 Aug 1943,211,vol2
+705,244451,Malone,8 Sep 1943,217,vol2
+709,244445,Lakas,15 Sep 1943,221,vol2
+739,246548,Maxwell,27 Sep 1943,251,vol2
+740,244444,Lane,4 Sep 1943,281,vol2
+763,252280,Morley,10 Sep 1943,287,vol2
+764,246044,"Copeland, Ruggles",21 Sep 1943,291,vol2
+765,252281,Claros,29 Sep 1943,299,vol2
+768,250985,Dixon,23 Sep 1943,309,vol2
+774,244441,Cooper,18 Sep 1943,317,vol2
+799,258618,Booker,30 Sep 1943,325,vol2
+800,248958,Ungard,29 Sep 1943,331,vol2
+804,252290,"Ogletree, Nunn, Adams, Wise",6 Nov 1943,337,vol2
+817,258619,Yount,15 Oct 1943,365,vol2
+823,257560,Poteet,14 Oct 1943,371,vol2
+832,253113,Waite,26 Oct 1943,379,vol2
+835,248962,Davis,20 Oct 1943,391,vol2
+839,248965,Nelson,19 Oct 1943,1,vol3
+850,,Kilkins,22 Nov 1943,7,vol3
+866,265674,"O' Connell, Baza",8 Nov 1943,19,vol3
+873,258617,Bloom,27 Oct 1943,23,vol3
+875,248966,Fazio,28 Oct 1943,31,vol3
+882,257983,"Biondi, White",3 Nov 1943,39,vol3
+885,248964,Van Horn,29 Oct 1943,51,vol3
+895,255663,"Davis, Wade,
+Gallier, Heed, Williams, Frelot, Patterson, Hill,
+Ogletree. Cradle, Saffo, Engram,
+' Flagg, Kirksey, Horton, Arbuckle, Avery, Kendall,
+Mack, Wise, Johnson,W. Johnson, P., Triplett, Williams, J., Alexander, Roach, Smith, Terrell, Grigg, Johnson, J., Robinson, Bailey, l&gee, Doakes,
+Starks","10 Feb 1944,
+",59,vol3
+902,265317,"Barreto, Colitto",19 Nov 1943,137,vol3
+913,248961,Pierno,10 Nov 1943,149,vol3
+942,248963,"Shooten, Currin",12 Nov 1943,159,vol3
+945,262747,Garrison,15 Nov 1943,165,vol3
+947,,Teamans,17 Nov 1943,171,vol3
+952,257990,Mosser,30 Nov 1943,177,vol3
+960,248967,"Fazio, Poteet, Nelson",11 Dec 1943,189,vol3
+969,258072,Davis,3 Dec 1943,201,vol3
+970,252726,McCartney,30 Nov 1943,229,vol3
+971,*,Burnett,27 Nov 1943,239,vol3
+972,,Petrovich,27 Nov 1943,243,vol3
+973,,IfcFall,29 Nov 1943,247,vol3
+991,248922,"Gugliotta,
+Harrington",10 Dec 1943,251,vol3
+992,250982,Fortenberry,10 Dec 1943,261,vol3
+996,,Burkhart,30 Dec 1943,265,vol3
+1015,,Branham,22 Jan 1944,275,vol3
+1017,250989,UcCutcheon,9 Dec 1943,285,vol3
+1036,250986,Harris,9 Dec 1943,293,vol3
+1042,,Collette,27 Jan 1944,301,vol3
+1044,250983,Dungan,13 Dec 1943,309,vol3
+1052,257070,"Geddies, Lindsey, Shaw, Blake, Manning, IfcKnight, Austin, Tilly, Barrett, Hiring, Martin, Tennyson, Gibbs, Hughes",12 Feb 1944,313,vol3
+1057,,Redmond,17 Mai- 1944,349,vol3
+1065,258624,Stratton,29 Dec 1943,363,vol3
+1069,250981,Bell,18 Dec 1943,373,vol3
+1073,256430,Sanders,13 Dec 1943,383,vol3
+1092,,Sussex-Loasby,22 Dec 1943,387,vol3
+1096,,Stringer,11 Feb 1944,393,vol3
+1100,252284,Simmons,15 Jan 1944,1,vol4
+1103,253573,Burns,20 Dec 1943,5,vol4
+1107,258633,Shuttleworth,24 Dec 1943,9,vol4
+1109,,Armstrong,19 Apr 1944,19,vol4
+1134,258625,"Scarborough,Rouhier",20 Jan 1944,27,vol4
+1146,256428,Lane,8 Jan 1944,33,vol4
+1161,258069,Waters,31 Jan 1944,37,vol4
+1165,255810 ■,Vittitoe,27 Jan 1944,55,vol4
+1177,280402,Ccobess,6 Mar 1944,59,vol4
+1191,,Acosta,14 Mar 1944,65,vol4
+1197,265323,Carr,8 Feb 1944,79,vol4
+1201,,Pheil,. 29 Mar 1944,91,vol4
+1202,255312,"Ramsey, Edwards",14 Feb 1944,109,vol4
+1226,,Muir,13 Mar 1944,121,vol4
+1232,258620,Barter,31 Jan 1944,137,vol4
+1249,257053,Marchetti,7 Mar 1944,143,vol4
+1259,256432,Rusniaczyk,28 Jan 1944,153,vol4
+1262,257062,Moulton,24 Feb 1944,157,vol4
+1266,258626,Shipman,10 Feb 1944,161,vol4
+1267,258621,Bailee,15 Feb 1944,167,vol4
+1284,258082,"Davis, Pindar,Travers, Miller,
+Scott, Hudspeth,
+Cameron
+",6 Apr 1944,175,vol4
+1289,255807,Merriweather,31 Jan 1944,189,vol4
+1302,262750,Splain,31 Mar 1944,197,vol4
+1317,,Bentley,8 Mar 1944,217,vol4
+1327,258628,Urie,19 Feb 1944,227,vol4
+1360,257057,Poe,24 Feb 1944 ',235,vol4
+1361,257056 ‘,Story,17 Feb 1944,243,vol4
+1366,262037,English,24 Feb 1944,247,vol4
+1388,258627,Madden,16 Feb 1944,253,vol4
+1395,278461,Saunders,1 Mar 1944,261,vol4
+1400,,Johnston,17 Feb 1944,267,vol4
+1402,257054,Willison,26 Feb 1944,271,vol4
+1403,,Kumiaerla,24 Feb 1944,275,vol4
+1404,,Stack,16 Mar 1944,279,vol4
+1405,,Oliff,21 Feb 1944,285,vol4
+1406,,Pettapieca,25 Feb 1944,289,vol4
+1408,,Saraceno,17 Mar 1944,293,vol4
+1409,,Mieczkowski,16 l&r 1944,299,vol4
+1411,262038,Rless,15 Feb 1944,303,vol4
+1412,257059,Medeiros,29 Feb 1944,307,vol4
+1413,257058,Longoria,25 Feb 1944,311,vol4
+1414,264494,Elia,2 Mar 1944,315,vol4
+1415,262039,Cochran,29 Feb 1944,321,vol4
+1432,256427,Good,1 Mar 1944,325,vol4
+1447,,Sc hoi be,6 Mar 1944,331,vol4
+1453,268994,Fowler,26 Apr 1944,337,vol4
+1479,258076,Shipley,16 Mar 1944,353,vol4
+1486,,"MacDonald,MacCrimnvon",24 May 1944,357,vol4
+1515,262040,Smith,6 Mar 1944,375,vol4
+1519,258086,Bartel,7 i&r 1944,381,vol4
+1535,,Cooper,8 Mar 1944,385,vol4
+1538,258071,Rhodes,12 Apr 1944,391,vol4

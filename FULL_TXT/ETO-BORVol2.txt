@@ -2701,7 +2701,7 @@ Incl:
 Holding of Board of Review.
 
 (Sentence ordered executed. GCMO 12, ETO, 6 Jul 1943)
-(119)
+#(119)
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871.
 
 Board of Review.

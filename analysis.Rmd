@@ -1,0 +1,49 @@
+---
+title: "Analyzing the World War II Board of Review Documents"
+author: "Amanda Regan"
+date: "May 23, 2015"
+output: html_document
+---
+
+First, use the functions I created to split each volume up into individual cases.
+```{r}
+require(splitfiles.r)
+create.individual.docs("FULL_TXT/Vol1-ToSplit.txt", 1)
+create.individual.docs("FULL_TXT/ETO-BORVol2.txt", 2)
+create.individual.docs("FULL_TXT/ETO-BOR3.txt", 3)
+create.individual.docs("FULL_TXT/ETO-BOR4.txt", 4)
+
+checkfiles()
+```
+
+
+Next, lets set up packages per Fred Gibbs tutorial and clean up the text by removing punctuation, turning everything to lowercase, and removing numbers.
+```{r, echo=FALSE}
+library(tm)
+library(SnowballC)
+corpus <- Corpus(DirSource("IndivCases/"))
+getTransformations
+corpus <- tm_map(corpus, removePunctuation)
+corpus <- tm_map(corpus, removeNumbers)
+corpus <- tm_map(corpus, stripWhitespace)
+corpus <- tm_map(corpus, content_transformer(tolower))
+corpus <- tm_map(corpus, removeWords, stopwords("english"))
+
+customstops <- c("confidential")
+corpus <- tm_map(corpus, removeWords, customstops)
+```
+
+Create dtm and tdm
+
+```{r}
+tdm <- TermDocumentMatrix(corpus)
+
+dtm <- DocumentTermMatrix(corpus, control = list(weighting = weightTfIdf, stopwords = TRUE))
+inspect(dtm)
+
+findFreqTerms(tdm, 200)
+findAssocs(dtm, 'rape', 0.50)
+df <- as.data.frame(inspect(dtm))
+grep('aaa', df$row.names)
+data("aaa")
+```
