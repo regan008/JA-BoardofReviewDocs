@@ -1,4 +1,5 @@
-﻿CONFIDENTIAL
+﻿#(1)
+CONFIDENTIAL
 
 (i)
 
@@ -292,7 +293,7 @@ Acting Assistant Judge Advocate General
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
-(15)
+#(15)
 
 BOARD CE REVIEW ETO 3163
 
@@ -406,7 +407,7 @@ CONFIDENTIAL
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 371
 
-(19)
+#(19)
 
 BOAED OP REVIEW NO. 2 CM ETO 3169
 
@@ -514,7 +515,7 @@ Brigadier General, United States Army, Assistant Judge Advocate General.
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
-(23)
+#(23)
 
 BOARD OF REVIEW ETO 3180
 
@@ -864,7 +865,7 @@ Brigadier General, United States Army, Assistant Judge Advocate General.
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
-(37)
+#(37)
 
 BOARD OF REVIEW N0.1 ETO 3I96
 
@@ -1025,7 +1026,7 @@ War Department* Branch Offioa of The Judge Adrocste General with the European Th
 Brigadier General, United States Aray Assistant Judge Advocate General.
 
 CONFIDENTIAL
-
+#(43)
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
 BOARD OF REVIEW HO. 1 CM ETO 3197
@@ -1412,7 +1413,7 @@ Brigadier General, United States Army Assistant Judge Advocate General.
 CONFIDENTIAL
 CONFIDENTIAL
 
-(57)
+#(57)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
@@ -2094,7 +2095,7 @@ Brigadier General, United States Army, .Assistant Judge Advocate General.
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
-(83)
+#(83)
 
 BOARD OF REVIEW NO. 1
 
@@ -2300,7 +2301,8 @@ Incl.l Record tit Trial Incl.2 Form (Of actioh Incl.3 Draft GCi#
 (Sentence vacated in part in accordance -with recommendation of Assistant Judge Advocate General. GCUO 86, ETO, 30 Sep 1944)
 CONFIDENTIAL
 
-Branch Office of The Judge .Advocate General	(91)
+#(91)
+Branch Office of The Judge .Advocate General	
 
 with the European Theater of Operations APU 871
 
@@ -2474,7 +2476,7 @@ I	i	ini-
 
 3ranch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
-(97)
+#(97)
 
 BOARD OF REVEST NO. 2
 
@@ -2673,8 +2675,8 @@ Brigadier General, United States Army, Assistant Judge Advocate General.
 CONFIDENTIAL
 
 CONFIDENTIAL
-
-Branch Offlo« »f The Judge Jdveeate General	(105)
+#(105)
+Branch Offlo« »f The Judge Jdveeate General	
 
 with the European Theater ef Operations
 
@@ -3042,7 +3044,7 @@ Branch Office of The Judge Advocate General with the
 
 European Theater of Operations APO 871
 
-(119)
+#(119)
 
 BOARD OF REVIEW NO. 1 CM ETO 3234
 
@@ -3386,7 +3388,7 @@ CONFIDENTIAL
 
 Branch Office of The Judge Allocate General with the European Theater of Operations APO 871
 
-(131)
+#(131)
 
 BOARD OF REVIE# NO* 2
 
@@ -3490,7 +3492,7 @@ Brigadier General, Halted States Army, Assistant Judge Alvocate General*
 CONFIDENTIAL
 CONFIDENTIAL
 
-(135)
+#(135)
 
 Branch Office of The Judge Advocate General with the European Theater of Onerations APO 371
 
@@ -3840,7 +3842,7 @@ m. u.
 (Sentence as commuted ordered executed. GCMO 69, 70, ETO, 22 Sep 19A4)
 CONFIDENTIAL
 
-(H5)
+#(145)
 
 Branch Office of The Judge Advocate General with the European Theater of Operatlone APO 871
 
@@ -3948,7 +3950,7 @@ General, H Air Force Service Command, .	,	Army.
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
-(149)
+#(149)
 
 BOARD OF RSVIE.7 NO. 2
 
@@ -4073,8 +4075,8 @@ office, they should be accompanied by the foregoing holding and this indorsement
 Brigadier General, United States Army, Assistant Judge Advocate General.
 
 CONFIDENTIAL
-
-Branch Office of The Judge Advocate General \	(155)
+#(155)
+Branch Office of The Judge Advocate General \	
 
 with the European Theater of Operations A?0 371
 
@@ -4218,7 +4220,7 @@ Brigadier General, United States Army, Assistant Judge Advocate General*
 
 Branoh Offioe of The Judge Advocate General with the European Theater of Operations APO 871
 
-(161)
+#(161)
 
 BOARD OF REVIEW NO. 2 CM ETO 3292
 
@@ -4426,7 +4428,7 @@ Brigadier General, United States Army, Assistant Judge Advocate General*
 
 Branch Office of The Judge Advocate General
 
-v/ith the	(171)
+v/ith the	#(171)
 
 European Theater of Operations APO 871
 
@@ -4592,7 +4594,7 @@ Brigadier General, United States Army, Assistant Judge Advocate General.
 3300
 CONFIDENTIAL
 
-(177)
+#(177)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
@@ -4930,7 +4932,7 @@ Brigadier General, United States Army, Assistant Judge Advocate General.
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
-(191)
+#(191)
 
 BOARD OF REVIEW NO. 2
 
@@ -5050,7 +5052,7 @@ Brigadier General, United States Army, Assistant Jud^e Advocate General.
 \
 CONFIDENTIAL
 
-(197)
+#(197)
 
 Brunch Office of The Judge with the European Theater of IPO 87^
 
@@ -5290,7 +5292,7 @@ Brigadier General, United States Army, Assistant Judge Advocate General.
 
 Branch Office of The JUdge Advocate General with the European Theater of Operations APO 871
 
-(207)
+#(207)
 
 BOARD OP REVIEW NO. 2
 
@@ -5388,14 +5390,13 @@ Brigadier General, United States Aray, Assistant Judge Advocate General*
 - 3 -
 
 CONFIDENTIAL
-(211)
+#(211)
 
 Branch Office of The Judge Advocate General with.the European Theater of Operations APO 871
 
 BOARD OF REVIEW NO. 2 CM ETO 3305
 
 9 SEP 1944
-
 UNITED	STATES )
 
 )
@@ -5578,7 +5579,7 @@ Brigadier General, United States Anny, Assistant Judge Advocate General.
 *
 CONFIDENTIAL
 
-(219)
+#(219)
 
 Branch Office of The Judge Advocate General
 
@@ -5881,7 +5882,7 @@ Brigadier General, United States Array, Assistant Judge Advocate General.
 2 -
 
 MNF1DENTIM
-
+#(231)
 CONFIDENTIAL
 
 Branch Office of The Judge Advocate General with the European Theater of Operations
@@ -6010,7 +6011,7 @@ European Theater of Operations*
 
 Brigadier General, United States imy, Assistant Judge Advocate General*
 
-(237)
+#(237)
 
 Jj*.' I \j i . -
 
@@ -6316,7 +6317,7 @@ Brigadier General, United States Army Assistant Judge Advocate General.
 I
 CONFIDENTIAL
 
-(2-49)
+#(249)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
@@ -6470,7 +6471,7 @@ CONFIDENTIAL
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
-(255)
+#(255)
 
 BOARD OP REVIEW NO. 2 CM'ETO 3366
 
@@ -6597,8 +6598,8 @@ For convenience of reference, please place that number in brackets at the end of
 Brigadier General, United States Army, Assistant Judge Advocate General#
 \
 CONFIDENTIAL
-
-Branch Of fie* of The Judge Advocate General	(261)
+#(261)
+Branch Of fie* of The Judge Advocate General	
 
 with the European. Theater of Operations IPO 871
 
@@ -6752,7 +6753,7 @@ European Theater of Operations*
 Brigadier General, United States Army, Assistant Judge Advocate General#
 CONFIDENTS
 
-(267)
+#(267)
 
 Branch Offlee of The Judge Advocate General
 
@@ -7324,7 +7325,7 @@ General, United Kingdom Base
 Brigadier General, United States Armiy Assistant Judge Advocate General,
 
 - 1 -
-
+#(285)
 CONFIDENTS!.
 CONFIDENTIAL
 
@@ -7375,6 +7376,7 @@ Specification 2:	In	that Private Victor J»
 Gross, Company B, Maintenance Battalion, Third Armored Division, did, at Wool atore Camp, Codford St Mary, Wiltshire, on or about 7 May 1944 feloniously embezzle by fraudulently converting to his own use two
 
 (285)
+
 
 - 1 -
 
@@ -7572,7 +7574,7 @@ Brigadier General, United States Army, Assistant Judea Advocate General*
 
 3379
 
-(295)
+#(295)
 
 CONFIDENTIAL
 
@@ -7668,7 +7670,7 @@ War Department, Branoli Office of The Jtt^PD4$TJ?©at® General with the Europea
 office, they should be accompanied by the foregoing holding and this indorsement. 3he file number of the reoord in this office is Cii ETO 3380. For convenience of reference please place that number in braokets at the end of	1 ny'
 
 Brigadier ueneraj., united states Army Assistant Judge Advocate General.
-(299)
+#(299)
 
 CONFIDENTIAL
 
@@ -7932,7 +7934,7 @@ CONFIDENTIAL
 
 Branch Office of The Judge Advocate General with the European Theater of Operationa APO 871
 
-(309)
+#(309)
 
 BOARD OF REVIEW NO. 2
 
@@ -8068,7 +8070,7 @@ Brigadier General, United States Army. Assistant Judge Advocate General.
 
 Branch Office of Ike Judge Advocate General with the European Ik eater of Operations APO 871
 
-(315)
+#(315)
 
 BOARD OF REVIEW NO. 1
 
@@ -8178,7 +8180,7 @@ Brigadier General, United States Amy, Assistant Judge Advocate General.
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
-(319)
+#(319)
 
 BOARD OF REVIEW NO* 2 CM ETO 345^
 
@@ -8474,7 +8476,7 @@ Assistant Judge Advoca
 
 Branch Offic* of The Judge Advocate 5e..-si*al v/ith the European Theater of Operations APO 871
 
-(331)
+#(331)
 
 29 AUG 19^4
 
@@ -8592,7 +8594,7 @@ Brigadier General, United States Army, Assistant Judge Advocate General.
 
 CONFIDENTIAL
 
-(337)
+#(337)
 
 Branch Office of The Judge Advocate General
 
@@ -9005,8 +9007,8 @@ Prigadier General, United States Aray Assistant Judge Advocate General.
 (Sentence ordered executed. GCIO 72, ETO, 23 Sep 1944)
 I
 CONFIDENTIAL
-
-Branch Office pf The Judge Advocate General	(351)
+#(351)
+Branch Office pf The Judge Advocate General	
 
 with the European Theater of Operations APO 887
 
@@ -9265,8 +9267,8 @@ Brigadier General, united States Army, Assistant Judge Advocate General.
 
 34f
 CONFIDENTIAL
-
-Branch,Office of The Judge Advocate General	(361)
+#(361)
+Branch,Office of The Judge Advocate General	
 
 with the European Theater of Operations APO 871
 
@@ -9576,7 +9578,7 @@ Brigadier General, United States Army, Assistant Judge Advocate General.
 
 Branch office of The Judge Advocate General with the European Theater of Operations APO 871
 
-(375)
+#(375)
 
 BOARD GF REVIEW NO. 2 CM ETO 3470
 
@@ -9686,7 +9688,7 @@ Brigadier General, United States Army\, Assistant Judge Advocate General.
 - 1 -
 CONFIDENTIAL
 
-(379)
+#(379)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
@@ -9782,7 +9784,7 @@ n.	u. &cnnjLLi,
 Brigadier General, United States Army, Assistant Judge Advocate General,
 CONFIDENTIAL
 
-(383)
+#(383)
 
 Branch Office of The Judge Advocate General
 
@@ -10046,7 +10048,7 @@ u.iwuJTIAL
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 871
 
-(393)
+#(393)
 
 BOARD OF REVIEW NO. 2 CM ETO 3478
 

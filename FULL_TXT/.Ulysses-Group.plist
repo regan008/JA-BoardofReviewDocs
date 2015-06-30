@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>ETO-BOR3 copy.txt</string>
+		</array>
+		<array>
+			<string>ETO-BOR3.txt</string>
+		</array>
+		<array>
+			<string>ETO-BOR4.txt</string>
+		</array>
+		<array>
+			<string>ETO-BOR_Vol-10.txt</string>
+		</array>
+		<array>
+			<string>ETO-BOR_Vol-11.txt</string>
+		</array>
+		<array>
+			<string>ETO-BOR_Vol-12.txt</string>
+		</array>
+		<array>
+			<string>ETO-BOR_Vol-13.txt</string>
+		</array>
+		<array>
+			<string>ETO-BOR_Vol-14.txt</string>
+		</array>
+		<array>
+			<string>ETO-BOR_Vol-15.txt</string>
+		</array>
+		<array>
+			<string>ETO-BORVol2.txt</string>
+		</array>
+		<array>
+			<string>ETO-BORVol5.txt</string>
+		</array>
+		<array>
+			<string>ETO-BORVol6.txt</string>
+		</array>
+		<array>
+			<string>ETO-BORVol7.txt</string>
+		</array>
+		<array>
+			<string>ETO-BORVol8.txt</string>
+		</array>
+		<array>
+			<string>ETO-BORVol9.txt</string>
+		</array>
+		<array>
+			<string>Untitled.txt</string>
+		</array>
+		<array>
+			<string>Vol1-ToSplit.txt</string>
+		</array>
+	</array>
+</dict>
+</plist>

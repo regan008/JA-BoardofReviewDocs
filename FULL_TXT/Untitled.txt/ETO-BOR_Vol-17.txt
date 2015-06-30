@@ -1,4 +1,4 @@
-﻿(1)
+﻿#(1)
 
 Branch Office of The Judge Advocate General ■with the
 
@@ -146,7 +146,7 @@ Judge Advocate
 
 Judge Advocate
 
-_5_	6342
+#(7)
 
 CC'IFIDENTIAL
 
@@ -274,7 +274,7 @@ Advocate
 liuiM •
 
 6376
-(13)*
+#(13)
 
 Ml
 
@@ -383,7 +383,7 @@ The sole remaining issue is his sanity. During the trial the court adjourned for
 8 June 1944, sec.H, pars.l£.(4)> 31i)»
 
 ~	Judge	Advocate
-
+#(19)
 6380
 
 - -7	r-
@@ -500,7 +500,7 @@ Judge Advocate
 
 
 
-
+#(23)
 
 Judge Advocate
 
@@ -728,7 +728,7 @@ r:o“FlbfllTIA;
 6397
 CONFIDENTIAL
 
-(29)
+#(29)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations
 
@@ -778,7 +778,7 @@ hi 4^Cc&{m4	0%. Judge	Advocate
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
-(31)
+#(31)
 
 BOARD (F REVIEW NO. 2	14	MAR	1945
 
@@ -894,7 +894,7 @@ i >(.;
 
 .COMPnr^TIAL
 
-(37)
+#(37)
 
 Branch Office of The Judge Advocate General with the European Theater of Operation®
 
@@ -1068,7 +1068,7 @@ not constitute an illegal or improper multiplication of charges (MCM, 1928, sec.
 
 
 6428
-(W)
+#(45)
 
 Branch Office of The Judge Advocate General . with the European Theater of Operations APO 887
 
@@ -1158,7 +1158,7 @@ corf::
 
 , CONFIDENTIAL
 
-(U9).
+#(49).
 
 Branch Office of The Judge Advocate .General with the
 
@@ -1204,7 +1204,7 @@ CONFIDENTIAL
 
 CONFIDENTIAL
 
-(51)
+#(51)
 
 Branch Office of The Judge Advocate General with the
 
@@ -1258,7 +1258,7 @@ Judge Advocate
 
 6444
 
-(53)
+#(53)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -1434,7 +1434,7 @@ BOARD QP REVIEW NO. 1 CM ETC 64.68
 
 21 FEB 1945
 
-(61)
+#(61)
 
 UNITED STATES)
 
@@ -1588,7 +1588,7 @@ BOARD OF REVIEW NO. 2 , CM ETO 6497
 
 lOfB 19«
 
-(67)
+#(67)
 
 UNITED STATES )
 
@@ -1636,7 +1636,7 @@ Judge Advocate
 - 2 -
 
 6497
-(69)
+#(69)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -1691,7 +1691,7 @@ Edmond Chamoroux and thereby placing him
 in	g522
 
 - 1 -
-(70)
+(70)
 
 CONFIDENTIAL
 
@@ -1806,7 +1806,7 @@ Judge Advocate ^^^t>*Ujud?e Advocate
 6522
 COM :DFM'lAL
 
-(75)
+#(75)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations
 
@@ -1952,7 +1952,7 @@ Brigadier General, United States Army, Assistant Judge Advocate General.
 - 1
 
 6523
-(81)
+#(81)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 837
 
@@ -2094,7 +2094,7 @@ Brigadier General, United States Army, Assistant Judge Advocate General.
 pr^prP'T'.M
 co;;riCE:iTiAL
 
-(67)
+#(87)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -2240,7 +2240,7 @@ Judge Advocate
 
 6545
 
-(93)
+#(93)
 
 Branch office of The Judge Advocate General with the European lheater of Operations APO 887
 
@@ -2286,7 +2286,7 @@ Judge Advocate
 
 * ! u . i * i i rv L
 
-(95)
+#(95)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations
 
@@ -2403,7 +2403,7 @@ Judge Advocat.
 
 
 6548
-(101)
+#(101)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations
 
@@ -2515,7 +2515,7 @@ r-acriDENTIAL
 6549
 CONFIDENTS
 
-(105)
+#(105)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -2557,7 +2557,7 @@ Judge Advocate
 
 6553
 
-(107)
+#(107)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -2675,7 +2675,7 @@ Judge Advocate
 0304
 
 jLXm
-(Ill)
+#(111)
 
 Mi.. j\' \ ihi.
 
@@ -2747,7 +2747,7 @@ Judge Advocate
 - 2 •
 
 OoNH ii iAL
-(ii3)
+#(113)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO '387
 
@@ -2813,7 +2813,7 @@ C0‘'nr!'Nf!# “
 GG20
 CGi'IFiDEilTIAL
 
-(115)
+#(115)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations AFO 887
 
@@ -2903,7 +2903,7 @@ Judge Advocate
 6622
 liCHHuEIMIAL
 
-(119)
+#(119)
 
 Branch Office of The Judge Advocate General with the
 
@@ -2987,7 +2987,7 @@ Judge Advocate
 
 CONFIDENTIAL
 
-(i?3)
+#(123)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -3091,7 +3091,7 @@ Judge Adv
 
 -^ONFMTIM
 
-(127)
+#(127)
 
 CONFIDENTIAL
 
@@ -3223,7 +3223,7 @@ Advocate
 O U i v i . ~-  r*
 
 - 4 -
-(131)
+#(131)
 
 Branch Office of The Judge Advocate General with the '
 
@@ -3333,7 +3333,7 @@ _Judge Advocate /i^n •	Judge	Advocate
 /
 
 6S37
-(135)
+#(135)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -3421,7 +3421,7 @@ KM?.
 
 CONFIDENTIAL
 
-(13?)
+#(139)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 837
 
@@ -3813,7 +3813,7 @@ UOflflDENTlM-
 -6684
 
 -1-
-(153)
+#(153)
 
 W.,!,
 
@@ -4021,7 +4021,7 @@ fclf'/M
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
-(163)
+#(163)
 
 BOARD OP REVIEW NO. 1 CM ETO 6694
 
@@ -4781,7 +4781,7 @@ Brigadier General, United States Army, Assistant Judge Advocate General.
 
 Branch office of Tfte Judge Advocate General with the European Theater of Operations APO 887
 
-(189)
+#(189)
 
 BOARD CF-REVIEW NO. 2 Cl.! ETO 6706
 
@@ -4829,7 +4829,7 @@ i.'-.hi N. ; ■ i.l
 
 - 1 -
 
-(191)
+#(191)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -4947,7 +4947,7 @@ UNITED STATES v.
 
 Privates JOE BURRS (7040140), Headquarters 8th Tank Battalion and.CHARLES A. MALAY (32207061), Company B, 8th Tank Battalion
 
-(195)
+#(195)
 
 Judge Advocate General
 
@@ -5147,7 +5147,7 @@ Incl. 1 - Record of Trial Incl. 2 - Form of Action Incl,.3 - Draft GCMO»
 
 ETO 6751 BORNS, JOE
 
-(203)
+#(203)
 
 iv! * nrMTI \| '..'Mi! \ 0i m I iHL
 
@@ -5253,7 +5253,7 @@ Ujggjg^Mdge Advocate
 6766
 
 -4-
-(207)
+#(207)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -5405,7 +5405,7 @@ Judge Advocate
 6767
 
 - 6 -
-(213)
+#(213)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations
 
@@ -5539,7 +5539,8 @@ E. C. Mcl-TEIL, -Brigadier General, United States Amy,
 Assistant Judge Advocate General.
 
 ( entence as commuted ordered executed, GCMD 83, ETO, 22 Mar 1945,)
-Branch Office of The Judge Advocate General „	with	the
+#(219)
+Branch Office of The Judge Advocate General „	with	the
 
 European Theater of Operations APO 887
 
@@ -5791,7 +5792,8 @@ this indorsement, and the record of trial which is delivered to you herewith. Th
 (Sentence confirmed but after reconsideration commuted to dishonorable discharge, total forfeitures and confinement for life. GCUO 65, ETO,
 
 4 March 1945).
-3ranch Office of The Judge Advocate General with the European Theater of Operations A?0 S87
+#(229)
+Branch Office of The Judge Advocate General with the European Theater of Operations A?0 S87
 
 BOARD OF REVUE? 110. 1 CK ETO 6823
 
@@ -5837,7 +5839,7 @@ CONFIDENTIAL
 
 COK.-ffll'IAL
 
-(231)
+#(231)
 
 Branch Office of Ihe Judge Advocate General with the European Theater of Operations AFG 837
 
@@ -5951,7 +5953,7 @@ Advocate
 6840
 
 ■ CONFIDENTIAL
-(235)
+#(235)
 
 Breach Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -6071,7 +6073,7 @@ CM ETO 5953. Myers). ^t thus appears that the specification sufficiently alleges
 (AW 42, Cir.210, WD, 14 Sept.1943, sec.VI, as amended).
 
 
-
+#(241)
 i^C^Jud^e Advocate
 
 \SICK IK QUARTERS)______Judge Advocate 6842
@@ -6132,7 +6134,7 @@ Judge Advocate
 6851
 
 CONF!C":!TIAL
-
+#(243)
 - 1 -
 \
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
@@ -6259,7 +6261,7 @@ Judge Advocate
 CONFIDENTIAL
 
 6857
-(21:7)
+(247)
 
 Branch Office of '^he ^udge Advocate General with the European Theater of Operations APO 887
 
@@ -6441,7 +6443,7 @@ v 1 (^	^<-*K i	udge	Advocate
 -7-..
 CONFIDENTIAL
 
-(25U)
+(254)
 
 1st Ind.
 
@@ -6460,7 +6462,7 @@ Brigadier General, United States Any, - Assistant Judge Advocate General.
 I •	•
 
 "6wr
-(25$)
+#(255)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -6574,7 +6576,7 @@ m
 'nDu.’ii
 
 6934
-(2 $9)
+#(259)
 
 Branch Office of The Judge Advocate General ■with the ,European Theater of Operations APO 887
 
@@ -6662,7 +6664,7 @@ CONFIDFN-m:
 
 - 3 -
 
-(263)
+#(263)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations
 
@@ -6806,7 +6808,7 @@ Brigadier General, United States Army, Assistant Judge Advocate General*
 ( Sentence as commuted ordered executed* GCMO 76, ETC, 18 Mar 1945*)
 
 6946
-(269)
+#(269)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -6957,7 +6959,7 @@ Brigadier General, United State* Army, Assistant Judse Advocate Geneiral.
 
 
 6948
-(27U).
+#(274).
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -7155,7 +7157,7 @@ Brlg&dier General ,United States Army, Assistant Judge Advocate General*
 ( Findings vacated in part .in accordance with recommendation of Assistant Judge Advocate Ueneral. GCMO 148, ETO, 13 ^ay 1945.)
 
 r.n‘;nnrMT?»r
-(281)
+#(281)
 
 Branch Office of The Judge Advocate General with the	.
 
@@ -7315,7 +7317,7 @@ u. ucaain.
 Brigadier General, United States Army, Assistant Judge Advocate General.
 
 ( Sentence as commuted ordered executed. GCMO, HO, ETO, 7 April 1945.)
-(237)
+#(287)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APQ 887
 
@@ -7625,7 +7627,7 @@ uUNriOTMl
 
 6961
 
-(301)
+#(301)
 
 Branch Office of The Judge Advocate General with the European Theater APO 887
 
@@ -7812,7 +7814,7 @@ Brigadier General, United States Army, Assistant Judge Advocate General.
 - 1 -
 
 ETC 6983 CARLSOH, MAURICE A
-(309)
+#(309)
 
 Branch Office of The Judge Advocate General
 
@@ -7990,7 +7992,7 @@ CONFIDENTIAL
 
 6997
 \
-(317)
+#(317)
 
 Branch Office of The Judge Advocate General with the European Theater of Ooerations A?0 387
 
@@ -8156,7 +8158,7 @@ Brigadier General, United States Army, .Assistant Judge Advocate General.
 •rrNT!En.)TJAL
 
 ETO 7000 SKINNER, SELBY H., let It
-(323)
+#(323)
 
 Branch Office of The Judge Advocate General •with the European Theater of Operations APO 887
 
@@ -8318,7 +8320,7 @@ manding General, European Theater of Operations, APO 8S7, U. S. Arny.
 Brigadier General, United States Army, Assistant Judge Advocate General.
 
 ( Sentence ordered executed. GCKO 57, ETO, 1 Mar 1945.)
-(331)
+#(331)
 
 Branch Office of The Judge Advocate General .	with	the
 
@@ -8452,7 +8454,7 @@ CONFIDENTIAL
 
 APO 887
 
-(333)
+(335)
 
 BOARD OF REVIEW NO- 2 CM ETO 7047
 
@@ -8494,7 +8496,7 @@ CONFIDENT!,M
 
 
 I
-(337)
+#(337)
 
 Branch Office of The Judge Advocate General
 
@@ -8604,7 +8606,7 @@ Judge Advocate
 Advocate
 
 073
-(3Ul)
+#(341)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -8726,7 +8728,7 @@ Advocate
 7086
 
 !AL
-(31*55 '
+#(345)
 
 branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
@@ -8844,7 +8846,7 @@ Judge
 Advocate
 
 7148
-(31*?)
+(349)
 
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887	
 BOARD OF REVIEW NO. 2	* APR 1Q45
@@ -8932,7 +8934,7 @@ His absence was unauthorized. Under such circumstances the court was fully justi
 Judge Advocate
 
 -x
-
+#(353)
 -_ Judge Advocate
 Branch Office of The Judge Advocate General with the European Theater of Operations APO 887
 
